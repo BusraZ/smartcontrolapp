@@ -1,12 +1,12 @@
 # Smart Control App
 
 Smart Control App, akıllı ev cihazlarını kontrol etmek için geliştirilmiş bir mobil uygulamadır. Bu uygulama, kullanıcılara akıllı ışıkları ve klima gibi cihazları yönetme imkanı sunar.
-<img src="https://github.com/BusraZ/smartcontrolapp/blob/temporary/image.png" alt="Alternatif Metin" width="200" height="400">
+
+<img src="https://github.com/BusraZ/smartcontrolapp/blob/temporary/image4.png" alt="Alternatif Metin" width="200" height="400">
 <img src="https://github.com/BusraZ/smartcontrolapp/blob/temporary/image1.png" alt="Alternatif Metin" width="200" height="400">
 <img src="https://github.com/BusraZ/smartcontrolapp/blob/temporary/image2.png" alt="Alternatif Metin" width="200" height="400">
 <img src="https://github.com/BusraZ/smartcontrolapp/blob/temporary/image3.png" alt="Alternatif Metin" width="200" height="400">
-<img src="https://github.com/BusraZ/smartcontrolapp/blob/temporary/image5
-    .png" alt="Alternatif Metin" width="200" height="400">
+<img src="https://github.com/BusraZ/smartcontrolapp/blob/temporary/image5.png" alt="Alternatif Metin" width="200" height="400">
 
 ## Özellikler
 
