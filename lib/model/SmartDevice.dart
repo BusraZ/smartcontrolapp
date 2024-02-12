@@ -1,0 +1,4 @@
+enum SmartDevice {
+  LIGHT,
+  AC,
+}
